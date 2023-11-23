@@ -40,8 +40,9 @@ Raymond Norris has worked at MathWorks for over 25 years as a Quality Engineer, 
 
 Raymond holds a B.S. in computer science and applied mathematics from the University of Massachusetts Boston and an M.S. in software engineering from Brandeis University.
 
-contents level:
+contents level
 : Beginner's contents:    20 %
+
   Intermediate contents:  80 %
 
 venue
