@@ -40,23 +40,23 @@ Raymond Norris has worked at MathWorks for over 25 years as a Quality Engineer, 
 
 Raymond holds a B.S. in computer science and applied mathematics from the University of Massachusetts Boston and an M.S. in software engineering from Brandeis University.
 
-contents level
-: Beginner's contents:    20 %
-: Intermediate contents:  80 %
+contents level:
+- Beginner's contents:    20 %
+- Intermediate contents:  80 %
 
-venue
-: On-Site, FZJ, Building 16.4, Room Rotunde
-  Online, https://fz-juelich-de.zoom.us/j/69592445601?pwd=bHpydUFoQ053cmpCOFVQNEQvTk1adz09
+venue:
+- On-Site: FZJ, Building 16.4, Room Rotunde
+- Online: https://fz-juelich-de.zoom.us/j/69592445601?pwd=bHpydUFoQ053cmpCOFVQNEQvTk1adz09
 
-workshop materials
-: Slack Channel (for the workshop __and beyond__): https://join.slack.com/t/matlabforhpc/shared_invite/zt-26e2ubbis-xHYoxSj0nsp6cKcOwjvNIA
-  Slides + Files: https://gitlab.jsc.fz-juelich.de/goebbert1/workshop-2023.11-matlab4hpc
-  Shared notes: https://gitlab.jsc.fz-juelich.de/hedgedoc/krClbkrfRre-UaOX5V090g#
+workshop materials:
+- Slack Channel (for the workshop __and beyond__): https://join.slack.com/t/matlabforhpc/shared_invite/zt-26e2ubbis-xHYoxSj0nsp6cKcOwjvNIA
+- Slides + Files: https://gitlab.jsc.fz-juelich.de/goebbert1/workshop-2023.11-matlab4hpc
+- Shared notes: https://gitlab.jsc.fz-juelich.de/hedgedoc/krClbkrfRre-UaOX5V090g#
 
-recordings
-: [1. Scientific Use Case, Andreas Kleefeld (JSC)](https://drive.google.com/file/d/1CjDpFjRBHm21DhATmNNbIG1oi97et-YV/view?usp=sharing)
-  [2. Parallel Computing with MATLAB, Raymond Norris (MATHWORKS) - Session 1](https://drive.google.com/file/d/1lzHUOHp7thusSqYUlXNAad3ytqlkPDzq/view?usp=sharing)
-  [3. Parallel Computing with MATLAB, Raymond Norris (MATHWORKS) - Session 2](https://drive.google.com/file/d/1xqadEpoe02gW5HBM1oanKaddGCCscxKh/view?usp=sharing)
+recordings:
+- [1. Scientific Use Case, Andreas Kleefeld (JSC)](https://drive.google.com/file/d/1CjDpFjRBHm21DhATmNNbIG1oi97et-YV/view?usp=sharing)
+- [2. Parallel Computing with MATLAB, Raymond Norris (MATHWORKS) - Session 1](https://drive.google.com/file/d/1lzHUOHp7thusSqYUlXNAad3ytqlkPDzq/view?usp=sharing)
+- [3. Parallel Computing with MATLAB, Raymond Norris (MATHWORKS) - Session 2](https://drive.google.com/file/d/1xqadEpoe02gW5HBM1oanKaddGCCscxKh/view?usp=sharing)
 
 preparation
 : A) recommended workshop
