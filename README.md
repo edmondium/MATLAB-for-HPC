@@ -43,7 +43,7 @@ Raymond holds a B.S. in computer science and applied mathematics from the Univer
 contents level
 : Beginner's contents:    20 %
 
-  Intermediate contents:  80 %
+    Intermediate contents:  80 %
 
 venue
 : On-Site, FZJ, Building 16.4, Room Rotunde
