@@ -33,7 +33,7 @@ date
 : November 6th, 2023
   09:00-12:30 (CET)
 
-instructor:
+instructor
 : Raymond Norris, MATHWORKS
 
 Raymond Norris has worked at MathWorks for over 25 years as a Quality Engineer, a Technical Consultant, and now, most recently, as an Application Engineer. He has written training courses and workshops at MATHWORKS on MATLAB Compiler, MEX, and Parallel Computing. Raymond currently leads a small team of engineers to integrate MATHWORKS parallel tools with end-users' HPC cluster and cloud environments.
