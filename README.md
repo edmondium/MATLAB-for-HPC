@@ -53,7 +53,7 @@ workshop materials:
 - Slides + Files: https://gitlab.jsc.fz-juelich.de/goebbert1/workshop-2023.11-matlab4hpc
 - Shared notes: https://gitlab.jsc.fz-juelich.de/hedgedoc/krClbkrfRre-UaOX5V090g#
 - MATLAB: https://content.mathworks.com/viewer/655b67e393e833d048d428dd
-  
+
 recordings:
 - [1. Scientific Use Case, Andreas Kleefeld (JSC)](https://drive.google.com/file/d/1CjDpFjRBHm21DhATmNNbIG1oi97et-YV/view?usp=sharing)
 - [2. Parallel Computing with MATLAB, Raymond Norris (MATHWORKS) - Session 1](https://drive.google.com/file/d/1lzHUOHp7thusSqYUlXNAad3ytqlkPDzq/view?usp=sharing)
